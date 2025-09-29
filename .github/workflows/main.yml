@@ -29,3 +29,4 @@ jobs:
       with:
         name: sbom-report
         path: sbom.xml
+        
